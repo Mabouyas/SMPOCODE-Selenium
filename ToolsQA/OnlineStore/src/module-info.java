@@ -1,0 +1,3 @@
+module onlineStore {
+	requires okio;
+}
